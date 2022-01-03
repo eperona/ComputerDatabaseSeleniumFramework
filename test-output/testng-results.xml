@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-03T06:04:12 CET" name="Default suite" finished-at="2022-01-03T06:04:20 CET" duration-ms="8285">
+  <suite started-at="2022-01-03T07:50:51 CET" name="computersdbV1" finished-at="2022-01-03T07:51:05 CET" duration-ms="13917">
     <groups>
     </groups>
-    <test started-at="2022-01-03T06:04:12 CET" name="Default test" finished-at="2022-01-03T06:04:20 CET" duration-ms="8285">
-      <class name="com.computers.db.testcases.TC_001_AddNewComputer">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@3e11f9e9]" started-at="2022-01-03T06:04:12 CET" name="setUp" finished-at="2022-01-03T06:04:16 CET" duration-ms="3851" status="PASS">
+    <test started-at="2022-01-03T07:50:51 CET" name="computersdb test" finished-at="2022-01-03T07:51:05 CET" duration-ms="13917">
+      <class name="com.computers.db.testcases.TC_002_EditComputer">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.computers.db.testcases.TC_002_EditComputer@729d991e]" started-at="2022-01-03T07:51:00 CET" name="setUp" finished-at="2022-01-03T07:51:02 CET" duration-ms="2061" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addComputerCompleteTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@3e11f9e9]" started-at="2022-01-03T06:04:17 CET" name="addComputerCompleteTest" data-provider="TestData" finished-at="2022-01-03T06:04:18 CET" duration-ms="1504" status="PASS">
+        <test-method signature="addComputerJustNameTest()[pri:0, instance:com.computers.db.testcases.TC_002_EditComputer@729d991e]" started-at="2022-01-03T07:51:02 CET" name="addComputerJustNameTest" finished-at="2022-01-03T07:51:04 CET" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addComputerJustNameTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.computers.db.testcases.TC_002_EditComputer@729d991e]" started-at="2022-01-03T07:51:04 CET" name="tearUp" finished-at="2022-01-03T07:51:05 CET" duration-ms="642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- com.computers.db.testcases.TC_002_EditComputer -->
+      <class name="com.computers.db.testcases.TC_001_AddNewComputer">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@17497425]" started-at="2022-01-03T07:50:51 CET" name="setUp" finished-at="2022-01-03T07:50:55 CET" duration-ms="3727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addComputerCompleteTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@17497425]" started-at="2022-01-03T07:50:56 CET" name="addComputerCompleteTest" data-provider="TestData" finished-at="2022-01-03T07:50:57 CET" duration-ms="1530" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +51,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addComputerCompleteTest -->
-        <test-method signature="addComputerCompleteTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@3e11f9e9]" started-at="2022-01-03T06:04:18 CET" name="addComputerCompleteTest" data-provider="TestData" finished-at="2022-01-03T06:04:20 CET" duration-ms="1378" status="PASS">
+        <test-method signature="addComputerCompleteTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@17497425]" started-at="2022-01-03T07:50:57 CET" name="addComputerCompleteTest" data-provider="TestData" finished-at="2022-01-03T07:50:58 CET" duration-ms="1335" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,11 +77,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addComputerCompleteTest -->
-        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@3e11f9e9]" started-at="2022-01-03T06:04:20 CET" name="tearUp" finished-at="2022-01-03T06:04:20 CET" duration-ms="688" status="PASS">
+        <test-method signature="addComputerJustNameTest()[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@17497425]" started-at="2022-01-03T07:50:58 CET" name="addComputerJustNameTest" finished-at="2022-01-03T07:50:59 CET" duration-ms="948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addComputerJustNameTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.computers.db.testcases.TC_001_AddNewComputer@17497425]" started-at="2022-01-03T07:50:59 CET" name="tearUp" finished-at="2022-01-03T07:51:00 CET" duration-ms="687" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearUp -->
       </class> <!-- com.computers.db.testcases.TC_001_AddNewComputer -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- computersdb test -->
+  </suite> <!-- computersdbV1 -->
 </testng-results>

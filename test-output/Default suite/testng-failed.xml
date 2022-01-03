@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.computers.db.testcases.TC_001_AddNewComputer">
+      <class name="com.computers.db.testcases.TC_002_EditComputer">
         <methods>
+          <include name="addComputerJustNameTest"/>
           <include name="setUp"/>
-          <include name="SearchcomputerTest"/>
           <include name="tearUp"/>
         </methods>
-      </class> <!-- com.computers.db.testcases.TC_001_AddNewComputer -->
+      </class> <!-- com.computers.db.testcases.TC_002_EditComputer -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
