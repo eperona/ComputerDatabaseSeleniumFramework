@@ -1,0 +1,37 @@
+2022-01-03 07:41:42,882 [main] INFO computersdb - ARRA is entered in search box
+2022-01-03 07:41:43,458 [main] INFO computersdb - Filter by Name button is clicked
+2022-01-03 07:41:43,846 [main] INFO computersdb - ARRA was clicked
+2022-01-03 07:41:43,961 [main] INFO computersdb - ARRA25679 is entered in Computer name textbox
+2022-01-03 07:44:57,827 [main] INFO computersdb - ARRA is entered in search box
+2022-01-03 07:44:58,146 [main] INFO computersdb - Filter by Name button is clicked
+2022-01-03 07:44:58,531 [main] INFO computersdb - ARRA was clicked
+2022-01-03 07:44:58,663 [main] INFO computersdb - ARRA92989 is entered in Computer name textbox
+2022-01-03 07:46:56,786 [main] INFO computersdb - ARRA is entered in search box
+2022-01-03 07:46:57,092 [main] INFO computersdb - Filter by Name button is clicked
+2022-01-03 07:46:57,680 [main] INFO computersdb - ARRA was clicked
+2022-01-03 07:46:57,817 [main] INFO computersdb - ARRA42522 is entered in Computer name textbox
+2022-01-03 07:46:58,754 [main] INFO computersdb - Alert Message is verified: Done ! Computer ARRA42522 has been updated
+2022-01-03 07:50:56,661 [main] INFO computersdb - Add new computer button is clicked
+2022-01-03 07:50:56,771 [main] INFO computersdb - HP001 is entered in Computer name textbox
+2022-01-03 07:50:56,840 [main] INFO computersdb - 1998-09-21 is entered in Introduced textbox
+2022-01-03 07:50:56,905 [main] INFO computersdb - 2225-09-21 is entered in Discontinued textbox
+2022-01-03 07:50:56,975 [main] INFO computersdb - Hewlett-Packard is selected in Company dropdown
+2022-01-03 07:50:57,520 [main] INFO computersdb - Create this computer button is clicked
+2022-01-03 07:50:57,580 [main] INFO computersdb - Alert Message is verified: Done ! Computer HP001 has been created
+2022-01-03 07:50:57,931 [main] INFO computersdb - Add new computer button is clicked
+2022-01-03 07:50:58,020 [main] INFO computersdb - HP002 is entered in Computer name textbox
+2022-01-03 07:50:58,080 [main] INFO computersdb - 1998-09-21 is entered in Introduced textbox
+2022-01-03 07:50:58,136 [main] INFO computersdb - 2225-09-21 is entered in Discontinued textbox
+2022-01-03 07:50:58,191 [main] INFO computersdb - Hewlett-Packard is selected in Company dropdown
+2022-01-03 07:50:58,869 [main] INFO computersdb - Create this computer button is clicked
+2022-01-03 07:50:58,918 [main] INFO computersdb - Alert Message is verified: Done ! Computer HP002 has been created
+2022-01-03 07:50:59,278 [main] INFO computersdb - Add new computer button is clicked
+2022-01-03 07:50:59,359 [main] INFO computersdb - HP0001 is entered in Computer name textbox
+2022-01-03 07:50:59,816 [main] INFO computersdb - Create this computer button is clicked
+2022-01-03 07:50:59,868 [main] INFO computersdb - Alert Message is verified: Done ! Computer HP0001 has been created
+2022-01-03 07:51:02,721 [main] INFO computersdb - ARRA is entered in search box
+2022-01-03 07:51:03,055 [main] INFO computersdb - Filter by Name button is clicked
+2022-01-03 07:51:03,672 [main] INFO computersdb - ARRA was clicked
+2022-01-03 07:51:03,800 [main] INFO computersdb - ARRA34449 is entered in Computer name textbox
+2022-01-03 07:51:04,745 [main] INFO computersdb - Save this computer button is clicked
+2022-01-03 07:51:04,800 [main] INFO computersdb - Alert Message is verified: Done ! Computer ARRA34449 has been updated
