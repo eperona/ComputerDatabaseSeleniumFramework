@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="computersdbV1">
+	<test name="computersdb test">
+		<classes>
+			<class name="com.computers.db.testcases.TC_001_AddNewComputer" />
+		</classes>
+	</test>
+</suite>
